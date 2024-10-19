@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="nombre">Nombre</string>
+    <string name="escriba_su_edad">Escriba su edad:</string>
+    <string name="registro">Registro</string>
+    <string name="escriba_su_nombre">Escriba su nombre:</string>
+    <string name="edad">Edad</string>
+    <string name="finalizar">Finalizar</string>
+</resources>
